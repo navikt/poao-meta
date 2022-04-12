@@ -33,3 +33,10 @@ build
 /felles/frontendlogger/
 /felles/veilarbproxy/
 /felles/common-java-modules/
+/komet/amt-tiltak/
+/komet/amt-tiltaksarrangor-flate/
+/komet/amt-tiltaksansvarlig-flate/
+/komet/amt-arena-acl/
+/komet/amt-enhetsregister/
+/komet/amt-arena-ords-proxy/
+/komet/amt-iac/
