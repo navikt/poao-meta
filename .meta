@@ -1,0 +1,24 @@
+{
+  "projects": {
+    "felles/pus-decorator": "https://github.com/navikt/pus-decorator.git",
+    "felles/pus-nais-java-app": "https://github.com/navikt/pus-nais-java-app.git",
+    "felles/pto-iac": "https://github.com/navikt/pto-iac.git",
+    "felles/pto-playbook": "https://github.com/navikt/pto-playbook.git",
+    "felles/pto-proxy": "https://github.com/navikt/pto-proxy.git",
+    "felles/pto-frontend": "https://github.com/navikt/pto-frontend.git",
+    "felles/pto-aivia": "https://github.com/navikt/pto-aivia",
+    "felles/pto-admin": "https://github.com/navikt/pto-admin.git",
+    "felles/frontendlogger": "https://github.com/navikt/frontendlogger.git",
+    "felles/veilarbproxy": "https://github.com/navikt/veilarbproxy.git",
+    "dab/veilarbaktivitet": "https://github.com/navikt/veilarbaktivitet.git",
+    "dab/aktivitetsplan": "https://github.com/navikt/aktivitetsplan.git",
+    "dab/arbeidsrettet-dialog": "https://github.com/navikt/arbeidsrettet-dialog.git",
+    "dab/start-samtale": "https://github.com/navikt/start-samtale.git",
+    "dab/veilarbdialog": "https://github.com/navikt/veilarbdialog.git",
+    "dab/veilarbdirigent": "https://github.com/navikt/veilarbdirigent.git",
+    "dab/veilarblest": "https://github.com/navikt/veilarblest.git",
+    "dab/veilarbmalverk": "https://github.com/navikt/veilarbmalverk.git",
+    "dab/veilarbvarsel": "https://github.com/navikt/veilarbvarsel.git",
+    "felles/common-java-modules": "https://github.com/navikt/common-java-modules.git"
+  }
+}

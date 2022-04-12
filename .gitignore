@@ -1,0 +1,35 @@
+# Default ignored files
+/shelf/
+/.idea/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+/dab/veilarbaktivitet/
+/dab/aktivitetsplan/
+/dab/arbeidsrettet-dialog/
+/dab/start-samtale/
+/dab/veilarbdialog/
+/dab/veilarbdirigent/
+/dab/veilarblest/
+/dab/veilarbmalverk/
+/dab/veilarbvarsel/
+/felles/pus-decorator/
+/felles/pus-nais-java-app/
+/felles/pto-iac/
+/felles/pto-playbook/
+/felles/pto-proxy/
+/felles/pto-frontend/
+/felles/pto-aivia/
+/felles/pto-admin/
+/felles/frontendlogger/
+/felles/veilarbproxy/
+/felles/common-java-modules/
