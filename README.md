@@ -14,7 +14,7 @@ meta git clone https://github.com/navikt/poao-meta.git
 ### Oppdatere etter andre har lagt til nye repoer
 ```bash
 # get new .meta file
-git pull origin master
+git pull origin main
 
 # clone missing projects
 meta git update
