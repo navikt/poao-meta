@@ -1,5 +1,5 @@
 # poao-meta
-Inneholder oversikt over repositoris brukt av po-arbeidsoppfolging
+Inneholder oversikt over repositories brukt av po-arbeidsoppfolging
 
 ## Hvordan bruke
 
