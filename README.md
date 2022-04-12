@@ -4,8 +4,12 @@ Inneholder oversikt over repositoris brukt av po-arbeidsoppfolging
 ## Hvordan bruke
 
 ### instaler første gang
-installer meta
-`npm i -g meta`
+installer
+```bash
+npm i -g meta
+meta git clone https://github.com/navikt/poao-meta.git
+```
+
 
 ### Oppdatere etter andre har lagt til nye repoer
 ```bash
