@@ -27,6 +27,7 @@
     "komet/amt-enhetsregister": "https://github.com/navikt/amt-enhetsregister.git",
     "komet/amt-arena-ords-proxy": "https://github.com/navikt/amt-arena-ords-proxy.git",
     "komet/amt-iac": "https://github.com/navikt/amt-iac.git",
+    "valp/mulighetsrommet": "https://github.com/navikt/mulighetsrommet.git",
     "obo/veilarbfilter": "https//github.com/navikt/veilarbfilter.git",
     "obo/veilarbindexer": "https//github.com/navikt/veilarbindexer.git",
     "obo/veilarbportefolje": "https//github.com/navikt/veilarbportefolje.git",
