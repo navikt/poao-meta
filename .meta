@@ -35,7 +35,7 @@
     "obo/veilarbtrelloactions": "https://github.com/navikt/veilarbtrelloactions.git",
     "obo/veilarbveileder": "https://github.com/navikt/veilarbveileder.git",
     "obo/poao-endringslogg-sanity": "https://github.com/navikt/poao-endringslogg-sanity.git",
-    "obo/poao-endringslogg": "https://github.com/navikt/poao-endringslogg.git"
+    "obo/poao-endringslogg": "https://github.com/navikt/poao-endringslogg.git",
     "obo/behovsvurdering": "https://github.com/navikt/behovsvurdering.git",
     "obo/veilarbmaofs": "https://github.com/navikt/veilarbmaofs.git",
     "obo/veilarbdokument": "https://github.com/navikt/veilarbdokument.git",
