@@ -26,6 +26,25 @@
     "komet/amt-arena-acl": "https://github.com/navikt/amt-arena-acl.git",
     "komet/amt-enhetsregister": "https://github.com/navikt/amt-enhetsregister.git",
     "komet/amt-arena-ords-proxy": "https://github.com/navikt/amt-arena-ords-proxy.git",
-    "komet/amt-iac": "https://github.com/navikt/amt-iac.git"
+    "komet/amt-iac": "https://github.com/navikt/amt-iac.git",
+    "obo/veilarbfilter": "https//github.com/navikt/veilarbfilter.git",
+    "obo/veilarbindexer": "https//github.com/navikt/veilarbindexer.git",
+    "obo/veilarbportefolje": "https//github.com/navikt/veilarbportefolje.git",
+    "obo/veilarbportefoljeflatefs": "https//github.com/navikt/veilarbportefoljeflatefs.git",
+    "obo/veilarbtrelloactions": "https//github.com/navikt/veilarbtrelloactions.git",
+    "obo/veilarbveileder": "https//github.com/navikt/veilarbveileder.git",
+    "obo/poao-endringslogg-sanity": "https//github.com/navikt/poao-endringslogg-sanity.git",
+    "obo/poao-endringslogg": "https//github.com/navikt/poao-endringslogg.git"
+    "obo/behovsvurdering": "https://github.com/navikt/behovsvurdering.git",
+    "obo/veilarbmaofs": "https://github.com/navikt/veilarbmaofs.git",
+    "obo/veilarbdokument": "https://github.com/navikt/veilarbdokument.git",
+    "obo/veilarbvedtakinfo": "https://github.com/navikt/veilarbvedtakinfo.git",
+    "obo/veilarbvedtaksstotte": "https://github.com/navikt/veilarbvedtaksstotte.git",
+    "obo/veilarbvisittkortfs": "https://github.com/navikt/veilarbvisittkortfs.git",
+    "obo/beslutteroversikt": "https://github.com/navikt/beslutteroversikt.git",
+    "obo/veilarbvedtaksstottefs": "https://github.com/navikt/veilarbvedtaksstottefs.git",
+    "obo/veilarboppgave": "https://github.com/navikt/veilarboppgave.git",
+    "obo/pto-pdfgen": "https://github.com/navikt/pto-pdfgen.git",
+    "obo/veilarbperson": "https://github.com/navikt/veilarbperson.git"
   }
 }
