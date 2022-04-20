@@ -46,6 +46,9 @@
     "obo/veilarbvedtaksstottefs": "https://github.com/navikt/veilarbvedtaksstottefs.git",
     "obo/veilarboppgave": "https://github.com/navikt/veilarboppgave.git",
     "obo/pto-pdfgen": "https://github.com/navikt/pto-pdfgen.git",
-    "obo/veilarbperson": "https://github.com/navikt/veilarbperson.git"
+    "obo/veilarbperson": "https://github.com/navikt/veilarbperson.git",
+    "tiltakspenger/tpts-tiltakspenger-mottak": "https://github.com/navikt/tpts-tiltakspenger-mottak",
+    "tiltakspenger/tpts-tiltakspenger-flate": "https://github.com/navikt/tpts-tiltakspenger-flate",
+    "tiltakspenger/tpts-arena": "https://github.com/navikt/tpts-arena"
   }
 }
