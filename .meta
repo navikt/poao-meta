@@ -26,6 +26,7 @@
     "komet/amt-arena-acl": "https://github.com/navikt/amt-arena-acl.git",
     "komet/amt-enhetsregister": "https://github.com/navikt/amt-enhetsregister.git",
     "komet/amt-arena-ords-proxy": "https://github.com/navikt/amt-arena-ords-proxy.git",
-    "komet/amt-iac": "https://github.com/navikt/amt-iac.git"
+    "komet/amt-iac": "https://github.com/navikt/amt-iac.git",
+    "valp/mulighetsrommet": "https://github.com/navikt/mulighetsrommet.git"
   }
 }
