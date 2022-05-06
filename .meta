@@ -19,6 +19,7 @@
     "dab/veilarblest": "https://github.com/navikt/veilarblest.git",
     "dab/veilarbmalverk": "https://github.com/navikt/veilarbmalverk.git",
     "dab/veilarbvarsel": "https://github.com/navikt/veilarbvarsel.git",
+    "dab/veilarbapi": "https://github.com/navikt/veilarbapi.git",
     "felles/common-java-modules": "https://github.com/navikt/common-java-modules.git",
     "komet/amt-tiltak": "https://github.com/navikt/amt-tiltak.git",
     "komet/amt-tiltaksarrangor-flate": "https://github.com/navikt/amt-tiltaksarrangor-flate.git",
