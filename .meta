@@ -11,7 +11,7 @@
     "felles/frontendlogger": "https://github.com/navikt/frontendlogger.git",
     "felles/veilarbproxy": "https://github.com/navikt/veilarbproxy.git",
     "dab/veilarbaktivitet": "https://github.com/navikt/veilarbaktivitet.git",
-    "deb/veilarbapi": "https://github.com/navikt/veilarbapi.git",
+    "dab/veilarbapi": "https://github.com/navikt/veilarbapi.git",
     "dab/aktivitetsplan": "https://github.com/navikt/aktivitetsplan.git",
     "dab/arbeidsrettet-dialog": "https://github.com/navikt/arbeidsrettet-dialog.git",
     "dab/start-samtale": "https://github.com/navikt/start-samtale.git",
